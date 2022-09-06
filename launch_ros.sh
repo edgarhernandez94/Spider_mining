@@ -10,7 +10,7 @@ cd /home/hiwonder/jethexa/src/jethexa_slam/launch/
 gnome-terminal -- bash -c "source /home/hiwonder/jethexa/devel/setup.bash; roslaunch jethexa_slam jethexa_slam.launch slam_methods:=gmapping"
 
 # Iniciar roscore en segundo plano
-roscore &
+
 
 # Esperar 30 segundos para que el primer proceso se inicialice
 sleep 30
