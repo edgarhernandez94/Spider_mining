@@ -1,0 +1,57 @@
+# Directorios de caché y temporales
+.cache/
+.temp/
+.tmp/
+
+# Directorios de configuración local y datos de aplicaciones
+.config/
+.local/
+.gnupg/
+.dbus/
+.compiz/
+.nv/
+.nx/
+.subversion/
+
+# Archivos y directorios relacionados con SSH
+.ssh/
+
+# Archivos de sesión y autorización
+.ICEauthority
+.Xauthority
+.esd_auth
+
+# Historial de shell y configuraciones personales
+.bash_history
+.bashrc
+.profile
+.zsh_history
+.zshrc
+.p10k.zsh
+
+# Otros archivos y directorios específicos del usuario
+.vim/
+.viminfo
+.vscode/
+.Desktop/
+.Documents/
+.Downloads/
+.Pictures/
+.Videos/
+.Music/
+
+# Archivos de sistema y backups
+*~
+.DS_Store
+
+# Archivos y directorios específicos de tu proyecto (si los hay)
+# Por ejemplo, directorios de salida, archivos de configuración específicos, etc.
+/build/
+/dist/
+/config.env
+.ros/log/**/*.log
+weights/fer_vgg19_48.trt
+weights/onnx/fer2013_vgg19.onnx
+Desktop/pesos.h5
+Downloads/tensorflow-2.1.0-cp36-cp36m-manylinux2010_x86_64.whl
+
