@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=App Bringup
+Comment=JetHexa App Bringup
+Encoding=UTF-8
+Exec=bash -c "sudo systemctl restart jethexa_bringup"
+Terminal=true
+MultipleArgs=false
+Type=Application
+Categories=Application;Development;
+StartupNotify=true
+#Icon=/home/hiwonder/jethexa_actionset_editor/icon.ico

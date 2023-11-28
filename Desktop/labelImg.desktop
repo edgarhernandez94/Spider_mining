@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=labelImg
+Exec=/usr/bin/python3 /home/hiwonder/labelImg/labelImg.py
+Icon=/home/hiwonder/labelImg/resources/icons/app.png

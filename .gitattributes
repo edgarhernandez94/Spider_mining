@@ -1,0 +1,12 @@
+.ros/log/* filter=lfs diff=lfs merge=lfs -text
+*.h5 filter=lfs diff=lfs merge=lfs -text
+*.log filter=lfs diff=lfs merge=lfs -text
+*.onnx filter=lfs diff=lfs merge=lfs -text
+*.log.1 filter=lfs diff=lfs merge=lfs -text
+*.log.2 filter=lfs diff=lfs merge=lfs -text
+*.trt filter=lfs diff=lfs merge=lfs -text
+weights/fer_vgg19_48.trt filter=lfs diff=lfs merge=lfs -text
+weights/onnx/fer2013_vgg19.onnx filter=lfs diff=lfs merge=lfs -text
+.ros/log/**/*.log filter=lfs diff=lfs merge=lfs -text
+Desktop/pesos.h5 filter=lfs diff=lfs merge=lfs -text
+Downloads/tensorflow-2.1.0-cp36-cp36m-manylinux2010_x86_64.whl filter=lfs diff=lfs merge=lfs -text

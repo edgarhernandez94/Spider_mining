@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=SetAsStandardA1
+Comment=Set Robot Type As Standard With  RPLIDAR_A1 Lidar
+Encoding=UTF-8
+Exec=/home/hiwonder/factory/set_robot_type.sh STANDARD_A1
+Terminal=true
+MultipleArgs=false
+Categories=Application;Development;
+Type=Application

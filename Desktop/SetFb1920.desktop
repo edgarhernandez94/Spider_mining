@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=1920x1080
+Comment=Set FB as 1920x1080
+Encoding=UTF-8
+Exec=xrandr --fb 1920x1080
+Terminal=false
+MultipleArgs=false
+Categories=Application;Development;
+Type=Application

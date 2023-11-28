@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>data</folder>
+  <filename>000912</filename>
+  <path>D:\11111\&#26446;&#20161;&#27946;\&#21407;&#22270;\data\000912.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>299</width>
+    <height>470</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>nomask</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>68</xmin>
+      <ymin>46</ymin>
+      <xmax>211</xmax>
+      <ymax>190</ymax>
+    </bndbox>
+  </object>
+</annotation>

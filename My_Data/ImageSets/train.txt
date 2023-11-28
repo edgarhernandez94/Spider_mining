@@ -1,0 +1,9 @@
+/home/hiwonder/My_Data/JPEGImages/Camera_12.jpg
+/home/hiwonder/My_Data/JPEGImages/Camera_11.jpg
+/home/hiwonder/My_Data/JPEGImages/Camera_7.jpg
+/home/hiwonder/My_Data/JPEGImages/Camera_5.jpg
+/home/hiwonder/My_Data/JPEGImages/Camera_2.jpg
+/home/hiwonder/My_Data/JPEGImages/Camera_4.jpg
+/home/hiwonder/My_Data/JPEGImages/Camera_1.jpg
+/home/hiwonder/My_Data/JPEGImages/Camera_6.jpg
+/home/hiwonder/My_Data/JPEGImages/Camera_3.jpg

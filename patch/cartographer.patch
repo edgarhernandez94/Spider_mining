@@ -1,0 +1,13 @@
+diff --git a/cartographer/sensor/map_by_time.h b/cartographer/sensor/map_by_time.h
+index ab7e9a2..9638652 100644
+--- a/cartographer/sensor/map_by_time.h
++++ b/cartographer/sensor/map_by_time.h
+@@ -40,7 +40,7 @@ class MapByTime {
+     CHECK_GE(trajectory_id, 0);
+     auto& trajectory = data_[trajectory_id];
+     if (!trajectory.empty()) {
+-      CHECK_GT(data.time, std::prev(trajectory.end())->first);
++      CHECK_GE(data.time, std::prev(trajectory.end())->first);
+     }
+     trajectory.emplace(data.time, data);
+   }

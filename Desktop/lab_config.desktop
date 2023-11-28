@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=LabConfig
+Comment=JetHexa Lab Config Tool
+Encoding=UTF-8
+Exec=/home/hiwonder/jethexa/src/jethexa_bringup/scripts/ros_entry.bash rosrun lab_config lab_config_client.py
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=Application;Development;
+StartupNotify=true
+Icon=/home/hiwonder/jethexa/src/lab_config/lab.ico

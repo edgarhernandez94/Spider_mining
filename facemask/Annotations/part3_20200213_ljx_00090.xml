@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>part3_20200213_ljx_00090.jpg</filename>
+	<path>E:\Software\windows_v1.8.1\data\data\part3_20200213_ljx_00090.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2340</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1015</xmin>
+			<ymin>223</ymin>
+			<xmax>1398</xmax>
+			<ymax>665</ymax>
+		</bndbox>
+	</object>
+</annotation>

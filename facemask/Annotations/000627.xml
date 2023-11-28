@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>000627.jpg</filename>
+	<path>/Users/liubeiming/Desktop/口罩数据集/刘倍铭/data/000627.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>262</width>
+		<height>195</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nomask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>28</ymin>
+			<xmax>172</xmax>
+			<ymax>151</ymax>
+		</bndbox>
+	</object>
+</annotation>

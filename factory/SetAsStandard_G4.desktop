@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=SetAsStandardG4
+Comment=Set Robot Type As Standard
+Encoding=UTF-8
+Exec=/home/hiwonder/factory/set_robot_type.sh STANDARD_G4
+Terminal=true
+MultipleArgs=false
+Categories=Application;Development;
+Type=Application

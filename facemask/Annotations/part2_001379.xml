@@ -1,0 +1,26 @@
+<annotation>
+	<folder>part2</folder>
+	<filename>part2_001379.jpg</filename>
+	<path>G:\疫情期间\AI\数据标注\part2\part2\part2_001379.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>347</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nomask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>115</ymin>
+			<xmax>248</xmax>
+			<ymax>183</ymax>
+		</bndbox>
+	</object>
+</annotation>

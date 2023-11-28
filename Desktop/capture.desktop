@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=Capture
+Icon= /home/hiwonder/jethexa/src/dataset_capture/camera.svg
+Exec=/home/hiwonder/jethexa/src/jethexa_bringup/scripts/ros_entry.bash rosrun dataset_capture main.py

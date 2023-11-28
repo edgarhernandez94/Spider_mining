@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=TestLidar
+Comment=JetHexa Pose Control
+Encoding=UTF-8
+Exec=bash -c "source /home/hiwonder/jethexa/src/jethexa_bringup/scripts/wonderai_entry.bash; rosservice call /lidar_app/enter; rosservice call /lidar_app/set_running 'data: 3' "
+Terminal=true
+MultipleArgs=false
+Type=Application
+Categories=Application;Development;
+StartupNotify=true
+#Icon=/home/hiwonder/jethexa_actionset_editor/icon.ico
+Name[en_HK]=TestLidar.desktop

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>yuantu</folder>
+	<filename>PartA_00021.jpg</filename>
+	<path>D:\11111\part2-lrh\yuantu\PartA_00021.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1263</width>
+		<height>714</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nomask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1010</xmin>
+			<ymin>281</ymin>
+			<xmax>1044</xmax>
+			<ymax>326</ymax>
+		</bndbox>
+	</object>
+</annotation>

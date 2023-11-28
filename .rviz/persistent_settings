@@ -1,0 +1,13 @@
+Last Config Dir: /home/hiwonder/jethexa/src/jethexa_slam/rviz
+Last Image Dir: ""
+Recent Configs:
+  - /home/hiwonder/jethexa/src/jethexa_slam/rviz/jethexa_mapping.rviz
+  - /home/hiwonder/jethexa/src/jethexa_navigation/rviz/jethexa_navigation.rviz
+  - /home/hiwonder/jethexa/src/jethexa_multi/rviz/multi_formation.rviz
+  - /home/hiwonder/jethexa/src/jethexa_slam/rviz/jethexa_rtabmap.rviz
+  - /home/hiwonder/jethexa/src/jethexa_navigation/rviz/jethexa_rtabmap_nav.rviz
+  - /opt/ros/melodic/share/rviz/default.rviz
+  - /home/hiwonder/jethexa/src/jethexa_tutorial/rviz/ar.rviz
+  - /home/hiwonder/jethexa/src/jethexa_peripherals/rviz/rgbd_viewer.rviz
+  - /home/hiwonder/jethexa/src/jethexa_peripherals/rviz/laser_viewer.rviz
+  - ./rtabmap.rviz

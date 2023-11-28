@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Pose Control
+Comment=JetHexa Pose Control
+Encoding=UTF-8
+Exec=bash -c "sudo systemctl stop jethexa_bringup;/home/hiwonder/jethexa/src/jethexa_bringup/scripts/ros_entry.bash roslaunch jethexa_tutorial pose_control.launch"
+Terminal=true
+MultipleArgs=false
+Type=Application
+Categories=Application;Development;
+StartupNotify=true
+#Icon=/home/hiwonder/jethexa_actionset_editor/icon.ico
+Name[en_HK]=Pose Control.desktop

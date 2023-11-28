@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=ExpandFs
+Comment=ExpandFs Manual
+Encoding=UTF-8
+Exec=bash -c "sudo /sbin/expand_fs.sh no_reboot"
+Terminal=true
+MultipleArgs=false
+Type=Application
+Categories=Application;Development;
+StartupNotify=true

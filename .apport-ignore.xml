@@ -1,0 +1,4 @@
+<?xml version="1.0" ?>
+<apport>
+  <ignore mtime="1666726994" program="/opt/ros/melodic/lib/web_video_server/web_video_server"/>
+</apport>

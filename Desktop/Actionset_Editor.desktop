@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=JetHexa Actionset Editor
+Comment=JetHexa Actionset Editor
+Encoding=UTF-8
+Exec=/home/hiwonder/jethexa/src/jethexa_bringup/scripts/ros_entry.bash /home/hiwonder/jethexa_actionset_editor/main.py
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=Application;Development;
+StartupNotify=true
+Icon=/home/hiwonder/jethexa_actionset_editor/icon.ico
+Name[en_HK]=Actionset Editor

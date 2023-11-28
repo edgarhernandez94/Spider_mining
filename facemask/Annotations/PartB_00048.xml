@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>PartB_00048.jpg</filename>
+	<path>E:\Software\labelImg-master\data\2020.2.10\data\PartB_00048.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2784</width>
+		<height>1856</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nomask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1399</xmin>
+			<ymin>648</ymin>
+			<xmax>1552</xmax>
+			<ymax>862</ymax>
+		</bndbox>
+	</object>
+</annotation>
